@@ -1,4 +1,4 @@
-#!/flaskarea/scripts/python
+#!\flaskarea\scripts\python
 __author__ = 'markl_000'
 
 from flask.ext.wtf import Form
